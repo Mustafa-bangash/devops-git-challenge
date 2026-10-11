@@ -2,7 +2,7 @@
 
 # Deployment configuration
 APP_NAME="devops-git-challenge"
-ENVIRONMENT="production"
+ENVIRONMENT="staging"
 
 echo "Starting deployment..."
 echo "Application: $APP_NAME"
